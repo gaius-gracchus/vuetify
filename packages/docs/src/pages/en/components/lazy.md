@@ -11,7 +11,7 @@ related:
 
 # Lazy
 
-The `v-lazy` component is used to dynamically load components based upon an elements visibility.
+The `v-lazy` component is used to dynamically load components based upon an element's visibility.
 
 <entry-ad />
 
